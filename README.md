@@ -1263,7 +1263,7 @@ You are free to:
 
 <div align="center">
 
-Built with ❤️ as part of the **COINCENT AI Internship Portfolio**
+Built with ❤️ as part of the **COINCENT AI Internship**
 
 *Vision Transformer · PyTorch · CIFAR-10 · Streamlit*
 
