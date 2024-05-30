@@ -1,0 +1,4 @@
+# This directory stores training plots:
+# - training_curves.png
+# - confusion_matrix.png
+# - sample_predictions.png
